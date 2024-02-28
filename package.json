@@ -1,5 +1,6 @@
 {
   "name": "course-task",
+  "homepage": "https://ol-voronko.github.io/book-shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
