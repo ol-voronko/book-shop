@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: min-content;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin-right: 30px;
+}
+hr {
+  height: 2px;
+  background-color: #e48f45;
+  border-color: #e5d5f3;
+}
+.nav-button {
+  padding: 15px;
+}

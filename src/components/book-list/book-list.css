@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
+.card{
+    background-color: #fdf7ca;
+    border-radius: 15px;
+    border: none;
+}
+.card-image{
+    height: auto;
+}
+.button{
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: #e0c7a8;
+}
